@@ -35,11 +35,11 @@ Example VisBuddies activities include:
 
 Do you have a job you are seeking to fill? 
 
-If so, please complete this online form and we will include your posting on the Virtual VIS website and on IEEEVIS.org (optional).  You can also use this form sign up to host a “table” at the Job Fair.
+If so, please complete this online form and we will include your posting on the IEEEVIS.org.  You can also use this form sign up to host a “table” at the Job Fair.
 
 [VIS Community Job Posting Form](https://forms.gle/42GUi7ZTSxjiWzmPA)
 
-Links to the Job Postings will be included on the Virtual VIS website and on IEEEVIS.org.
+Links to the Job Postings will be included on the IEEEVIS.org.
 
 ### <a name="ajf"></a>VIS Job Fair Meetup
 <!-- **Wednesday, 19 October 2022, 15:45:00 CST in OK Station 2+3** -->
